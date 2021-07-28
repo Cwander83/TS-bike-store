@@ -1,0 +1,36 @@
+{
+	"bikes": [
+		{
+			"id": 1,
+			"brand": "Giant",
+			"size": "kids",
+			"name": "Animator C/B",
+			"price": 275.0,
+			"quantity": 1
+		},
+		{
+			"id": 2,
+			"brand": "Sun Bicycles",
+			"size": "adult",
+			"name": "Baja Cruz CB",
+			"price": 679.99,
+			"quantity": 1
+		},
+		{
+			"id": 3,
+			"brand": "Giant",
+			"size": "adult",
+			"name": "Talon 1",
+			"price": 920.0,
+			"quantity": 1
+		},
+		{
+			"id": 4,
+			"brand": "Bianchi",
+			"size": "adult",
+			"name": "Infinito CV Disc Ultegra",
+			"price": 4600.0,
+			"quantity": 1
+		}
+	]
+}
