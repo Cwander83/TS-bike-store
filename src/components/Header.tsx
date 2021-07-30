@@ -9,7 +9,7 @@ export const Header = () => {
 				<a href="/">Adult</a>
 				<a href="/">Kids</a>
 			</nav>
-            div.css 
+		
 			<svg
 				className="w-6 h-6"
 				fill="none"
